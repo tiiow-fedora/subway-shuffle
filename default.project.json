@@ -1,0 +1,13 @@
+{
+  "name": "SubwayShuffle",
+  "tree": {
+    "$className": "DataModel",
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "$ignoreUnknownInstances": true,
+      "SubwayShuffle": {
+        "$path": "src"
+      }
+    }
+  }
+}
